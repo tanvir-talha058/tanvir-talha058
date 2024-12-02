@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Tanvir Ahmed</h1>
 <h3 align="center">A Computer Science Student & Tech Enthusiast from Bangladesh</h3>
-<img align="right" alt="Coding" width="400" src="https://www.bypeople.com/wp-content/uploads/2019/03/people-at-work.gif">
+<img align="right" alt="Coding" width="400" src="https://img.etimg.com/thumb/width-1200,height-1200,imgsize-638053,resizemode-75,msid-84146083/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg">
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tanvir-talha058" alt="tanvir-talha058" /></a> </p>
+<p align="left"> <a href="https://twitter.com/tanvirtalha58" target="blank"><img src="https://img.shields.io/twitter/follow/tanvirtalha58?logo=twitter&style=for-the-badge" alt="tanvirtalha58" /></a> </p>
 
 - 🔭 I’m currently working on **Machine Learning models**
 
