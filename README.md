@@ -1,4 +1,4 @@
-<h1 align="center">Hey👋, I'm Tanvir Ahmed</h1> 
+<h1 align="center">Hey👋👋, I'm Tanvir Ahmed</h1> 
 <h3 align="center">A Computer Science Student & Tech Enthusiast from Bangladesh</h3>
 <img align="right" alt="Coding" width="400" src="https://img.etimg.com/thumb/width-1200,height-1200,imgsize-638053,resizemode-75,msid-84146083/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg">
 
