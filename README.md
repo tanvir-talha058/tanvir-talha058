@@ -19,7 +19,10 @@
 <a href="https://instagram.com/tanvir.talha05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tanvir.talha05" height="30" width="40" /></a>
 </p>
 
-
+<br>
+<br>
+<br>
+<br>
 
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=tanvir-talha058&show_icons=true&locale=en&layout=compact" alt="tanvir-talha058" /></p>
 
