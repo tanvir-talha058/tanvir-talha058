@@ -26,8 +26,7 @@
 <br>
 <br>
 <br>
-<br>
-<br>
+
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=tanvir-talha058&show_icons=true&locale=en&layout=compact" alt="tanvir-talha058" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tanvir-talha058&show_icons=true&locale=en" alt="tanvir-talha058" /></p>
