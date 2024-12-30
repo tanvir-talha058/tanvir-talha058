@@ -33,11 +33,11 @@
 
 ## 📊 My GitHub Stats
 
-![Tanvir's GitHub stats](https://github-readme-stats.vercel.app/api?username=tanvir-talha058show_icons=true&theme=radical)
+![Tanvir's GitHub stats](https://github-readme-stats.vercel.app/api?username=tanvir-talha058&show_icons=true&theme=radical)
 
 ## 🛠 Contribution Graph
 
-[![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=tanvir.talha058&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=tanvir-talha058&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
