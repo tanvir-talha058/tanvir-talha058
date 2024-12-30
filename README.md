@@ -7,6 +7,7 @@
 - 🔭 I’m currently working on **Machine Learning models for your better future!**
 
 - 🌱 I’m currently learning **Data Science And Machine Learning**
+- A passionate learner,tech Enthusiast , researcher, and problem-solver. I specialize in AI, machine learning, and cross-platform development. Currently working on innovative tools and research projects to create real-world impact. Let's collaborate and build something amazing! 🚀"
 
 - 📫Reach me **tanvirahmed123000@gmail.com**
 
