@@ -53,7 +53,11 @@
   <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white" />
 </div>
 
+## 🏆 My GitHub Streak Stats
 
+![GitHub Streak](https://streak-stats.demolab.com/?user=tanvir-talha058&theme=highcontrast&date_format=M%20j%5B%2C%20Y%5D)
+
+---
 ---
 
 Thank you for visiting my profile! 😊
