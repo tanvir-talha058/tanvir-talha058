@@ -65,8 +65,6 @@
 
 ## Repo Details and Commit Times
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tanvir-talha058&theme=radical" alt="Repo Details" />
-
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tanvir-talha058&theme=radical&utcOffset=0" alt="Productive Times" />
 
 ---
