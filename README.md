@@ -53,7 +53,7 @@
   <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white" />
 </div>
 
-![Tanvir's Contributions](https://github-contribution-stats.vercel.app/api/?username=tanvir-talha058)
+
 
 ---
 
