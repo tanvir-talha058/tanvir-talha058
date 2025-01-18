@@ -54,7 +54,7 @@
 </div>
 
 ## 🏆 My GitHub Streak Stats
-(https://streak-stats.demolab.com?user=tanvir-talha058&card_width=489&hide_total_contributions=true&hide_current_streak=true&hide_longest_streak=true)](https://git.io/streak-stats)
+https://streak-stats.demolab.com?user=tanvir-talha058&card_width=489&hide_total_contributions=true&hide_current_streak=true&hide_longest_streak=true)](https://git.io/streak-stats
 ---
 
 Thank you for visiting my profile! 😊
