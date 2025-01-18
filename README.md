@@ -54,7 +54,13 @@
 </div>
 
 ## 🏆 My GitHub Streak Stats
-https://streak-stats.demolab.com?user=tanvir-talha058&card_width=489&hide_total_contributions=true&hide_current_streak=true&hide_longest_streak=true)](https://git.io/streak-stats
+(https://github-readme-stats.vercel.app/api?username=tanvir-talha058&show_icons=true&theme=radical)
+
+## Connect with Me
+
+- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)](https://www.linkedin.com/in/tanvir-talha058/)
+- [![Mendeley](https://img.shields.io/badge/-Mendeley-green)](https://data.mendeley.com/datasets/5g238dv4ht/1)
+
 ---
 
 Thank you for visiting my profile! 😊
