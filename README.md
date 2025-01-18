@@ -53,9 +53,22 @@
   <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white" />
 </div>
 
-## 🏆 My GitHub Streak Stats
-- **Current Streak:** ![Current Streak](https://streak-stats.demolab.com/?user=tanvir-talha058&theme=radical&fire)
-- **Longest Streak:** ![Longest Streak](https://streak-stats.demolab.com/?user=tanvir-talha058&theme=radical&ring)
+![Tanvir's Contributions](https://github-contribution-stats.vercel.app/api/?username=tanvir-talha058)
+
+---
+
+## Commit Activity
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tanvir-talha058&theme=radical" alt="Commit Activity" />
+
+---
+
+## Repo Details and Commit Times
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tanvir-talha058&theme=radical" alt="Repo Details" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tanvir-talha058&theme=radical&utcOffset=0" alt="Productive Times" />
+
 ---
 
 Thank you for visiting my profile! 😊
