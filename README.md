@@ -26,7 +26,7 @@
 <br>
 <br>
 <div align="center">
-![Tanvir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tanvir-talha058&show_icons=true&theme=tokyonight)
+![Tanvir's GitHub Stats] (https://github-readme-stats.vercel.app/api?username=tanvir-talha058&show_icons=true&theme=tokyonight)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=tanvir-talha058&theme=tokyonight)
 
