@@ -62,9 +62,9 @@
 ---
 
 ## Commit Activity
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tanvir-talha058&theme=radical" alt="Commit Activity" />
-
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tanvir-talha058&theme=radical" alt="Commit Activity" />
+</div>
 ---
 
 Thank you for visiting my profile! 😊
