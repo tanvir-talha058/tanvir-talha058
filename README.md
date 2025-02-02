@@ -27,8 +27,6 @@
 <br>
 <div align="center">
   
-![Tanvir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tanvir-talha058&show_icons=true&theme=tokyonight)
-
 <table>
   <tr>
     <td>
@@ -39,6 +37,10 @@
     </td>
   </tr>
 </table>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=tanvir-talha058&theme=tokyonight" />
+
+![Tanvir's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tanvir-talha058&theme=tokyonight)
 
 ![Tanvir's GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=tanvir-talha058&theme=tokyo-night)
 
