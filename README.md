@@ -26,11 +26,18 @@
 <br>
 <br>
 <div align="center">
-  <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=tanvir-talha058&show_icons=true&locale=en&layout=compact" alt="tanvir-talha058" />    </p>
+  ## 🚀 GitHub Stats
+![Tanvir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tanvir-talha058&show_icons=true&theme=tokyonight)
 
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tanvir-talha058&show_icons=true&locale=en" alt="tanvir-talha058" /></p>
+## 🔥 Streak Stats
+![GitHub Streak](https://streak-stats.demolab.com/?user=tanvir-talha058&theme=tokyonight)
 
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tanvir-talha058&" alt="tanvir-talha058" /></p>
+## 📊 Most Used Languages
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tanvir-talha058&layout=compact&theme=tokyonight)
+
+## 🏆 Contribution Graph
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=tanvir-talha058&theme=tokyo-night)
+
 </div>
 
 
