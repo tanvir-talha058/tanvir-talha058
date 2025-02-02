@@ -38,15 +38,20 @@
   </tr>
 </table>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=tanvir-talha058&theme=tokyonight" />
-
 ![Tanvir's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tanvir-talha058&theme=tokyonight)
 
 ![Tanvir's GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=tanvir-talha058&theme=tokyo-night)
 
 </div>
 
+---
 
+## Commit Activity
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tanvir-talha058&theme=radical" alt="Commit Activity" />
+</div>
+
+---
 ## 🛠 **Tech Stack**
 
 <div align="center">
@@ -68,14 +73,5 @@
   <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white" />
 </div>
 
-
-
----
-
-## Commit Activity
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tanvir-talha058&theme=radical" alt="Commit Activity" />
-</div>
----
-
+----
 Thank you for visiting my profile! 😊
