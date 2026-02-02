@@ -8,7 +8,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=tanvir-talha058&color=blue)
 
 
-🔭 Currently working on applied Machine Learning, Computer Vision, and NLP models focused on real-world problem solving.
+🔭 Currently working on Machine Learning, Computer Vision, and NLP focused on real-world problem solving.
 
 🌱 Continuously strengthening my skills in Data Science, Machine Learning, Deep Learning, and Natural Language Processing through hands-on projects and research.
 
