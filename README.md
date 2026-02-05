@@ -8,9 +8,9 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=tanvir-talha058&color=blue)
 
 
-🔭 Currently working on Machine Learning, Computer Vision, and NLP focused on real-world problem solving.
+Currently working on Machine Learning, Computer Vision, and NLP focused on real-world problem solving.
 
-🌱 Continuously strengthening my skills in Data Science, Machine Learning, Deep Learning, and Natural Language Processing through hands-on projects and research.
+Continuously strengthening my skills in Data Science, Machine Learning, Deep Learning, and Natural Language Processing through hands-on projects and research.
 
 I’m a curious and driven tech enthusiast with experience across AI domains, including NLP, computer vision, and automation. My work involves building end-to-end intelligent systems such as AI-powered educational assistants, deepfake detection, and plant disease recognition, along with full-stack and cross-platform applications that bring these models into production. I focus on practical impact, clean system design, and solutions that perform reliably beyond experimentation 🚀
 
