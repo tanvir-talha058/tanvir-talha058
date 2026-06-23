@@ -31,7 +31,6 @@ Building intelligent systems that bridge **Artificial Intelligence**, **Software
 </div>
 
 ---
-
 # 🚀 Professional Summary
 
 AI/ML Engineer specializing in building production-grade AI solutions across fintech, natural language processing, computer vision, information retrieval, and intelligent automation.
@@ -73,76 +72,6 @@ Research Interests:
 🔍 Information Retrieval
 🚀 FinTech AI Solutions
 ```
-
----
-
-# 🧠 AI Engineering Dashboard
-
-<details open>
-<summary><b>🤖 Artificial Intelligence & Machine Learning</b></summary>
-
-<br>
-
-* Machine Learning
-* Deep Learning
-* Neural Networks
-* Large Language Models (LLMs)
-* Retrieval-Augmented Generation (RAG)
-* Information Retrieval
-* Natural Language Processing
-* Computer Vision
-* OCR Systems
-* Deepfake Detection
-* Image Classification
-
-</details>
-
-<details>
-<summary><b>💳 FinTech AI</b></summary>
-
-<br>
-
-* Fraud Detection
-* Risk Scoring
-* Customer Profiling
-* Transaction Monitoring
-* Behavioral Analytics
-* Financial Automation
-* Intelligent Decision Systems
-
-</details>
-
-<details>
-<summary><b>⚙️ Production AI & Engineering</b></summary>
-
-<br>
-
-* LangChain Applications
-* Vector Databases
-* Qdrant
-* ChromaDB
-* AI Pipelines
-* API Development
-* Hybrid Retrieval Systems
-* Model Deployment
-* Automation Solutions
-
-</details>
-
-<details>
-<summary><b>🔬 Research & Innovation</b></summary>
-
-<br>
-
-* Transformer Architectures
-* Bangla NLP
-* Low-Resource Language Processing
-* Deepfake Detection
-* Dataset Engineering
-* Information Retrieval
-* Text Classification
-
-</details>
 
 ---
 
@@ -260,70 +189,6 @@ Research Interests:
 </table>
 ---
 
-# 📈 Professional Impact
-
-```text
-✅ Production-Grade Multilingual RAG Systems
-
-✅ Real-Time Fraud Detection Solutions
-
-✅ OCR-Based Document Intelligence Pipelines
-
-✅ 20,090+ Bangla NLP Dataset Samples
-
-✅ 86% Bangla Dialect Classification Accuracy
-
-✅ 20,000+ Computer Vision Dataset Images
-
-✅ 97%+ Plant Disease Classification Accuracy
-
-✅ Crime Analytics Platform Covering 64 Districts
-
-✅ AI-Powered Automation Solutions
-```
-
----
-
-# 🔬 Research Journey
-
-```text
-2023 ─ Plant Disease Recognition & Classification
-
-2024 ─ Bangla Regional Dialect Classification
-
-2024 ─ Domain-Specific Text Categorization
-
-2025 ─ Deepfake Detection Research
-
-2026 ─ Enterprise RAG Systems
-
-2026 ─ FinTech AI Solutions
-```
-
----
-
-# 📊 AI Engineering Focus
-
-```text
-AI Engineering         ████████████████ 95%
-
-LLM Applications       ████████████████ 95%
-
-RAG Systems            ████████████████ 95%
-
-Natural Language AI    ███████████████  90%
-
-Computer Vision        █████████████    85%
-
-FinTech AI             █████████████    85%
-
-MLOps                  ██████████       75%
-
-Cloud Infrastructure   ████████         65%
-```
-
----
-
 # 🏆 GitHub Analytics
 
 <div align="center">
@@ -351,17 +216,6 @@ Cloud Infrastructure   ████████         65%
 </div>
 
 ---
-
-# 🏅 GitHub Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=tanvir-talha058&theme=tokyonight&no-frame=true&row=1&column=7"/>
-
-</div>
-
----
-
 # 🐍 Contribution Snake
 
 <div align="center">
@@ -369,32 +223,6 @@ Cloud Infrastructure   ████████         65%
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 
 </div>
-
----
-
-# 🎖 Achievements
-
-🏆 First Position — District Science Fair
-
-🥉 Third Position — Division Science Fair
-
-🏅 Top 10 — JUST Rotaract Science Fair
-
-💼 AI/ML Engineer — Upay (UCB FinTech)
-
-📚 NLP Researcher
-
-🚀 Open Source Enthusiast
-
----
-
-# 💡 Engineering Philosophy
-
-> Great AI systems are not defined by model accuracy alone.
->
-> They are defined by their ability to solve meaningful real-world problems, scale reliably, and create measurable impact.
-
----
 
 <div align="center">
 
