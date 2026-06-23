@@ -1,114 +1,340 @@
-# 📊 Tanvir Ahmed | AI/ML Engineer
-
 <div align="center">
-  <h1>Hi, I'm Tanvir Ahmed 👋</h1>
-  <p><strong>AI/ML Engineer at উপায় (UCB Fintech Company Limited)</strong></p>
-  <p><em>Turning imagination into innovation, one commit at a time!!</em></p>
-  
-  <br />
 
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanvir-talha058)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://tanvir-talha058.vercel.app/)
-  [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/tanvir.talha058/)
-  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/tanvir.talha05/)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tanvirahmed123000@gmail.com)
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=1000&lines=Tanvir+Ahmed;AI%2FML+Engineer+%40+Upay+(UCB+FinTech);Building+Production+AI+Systems;LLM+Engineering+%7C+RAG+%7C+NLP+%7C+Computer+Vision;Transforming+Research+Into+Real-World+Impact" />
 
-  <br />
-  
-  <!-- Curated Profile Highlights Badge Section -->
-  <h3>⭐ Profile Highlights & Achievements</h3>
-  
-  <img src="https://img.shields.io/badge/GitHub_Pro-💜_Pro-8a2be2?style=flat-square" alt="GitHub Pro" />
-  <img src="https://img.shields.io/badge/Domain-AI_/_ML_Specialist-blue?style=flat-square&logo=cpu" alt="AI/ML Domain" />
-  <img src="https://img.shields.io/badge/Status-Developer_Program_Member-007ACC?style=flat-square&logo=github" alt="Developer Program" />
-  <img src="https://img.shields.io/badge/Location-Dhaka,_Bangladesh-brightgreen?style=flat-square&logo=google-maps&logoColor=white" alt="Dhaka, Bangladesh" />
+<br>
+
+# 👋 Hi, I'm Tanvir Ahmed
+
+### AI/ML Engineer @ Upay (UCB FinTech)
+
+Building intelligent systems that bridge **Artificial Intelligence**, **Software Engineering**, and **Business Impact**.
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=tanvir-talha058&label=Profile+Views&color=0e75b6&style=for-the-badge" />
+</p>
+
+<p align="center">
+<a href="https://www.linkedin.com/in/tanvir-talha058">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:tanvirahmed123000@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://tanvir-talha058.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
+</a>
+</p>
+
 </div>
 
-<hr />
+---
 
-## 🚀 About Me
+# 🚀 Professional Summary
 
-I am a passionate **AI/ML Engineer** currently working in the fintech space. I enjoy building end-to-end intelligent systems that bridge the gap between complex research models and high-performance production software. 
+AI/ML Engineer specializing in building production-grade AI solutions across fintech, natural language processing, computer vision, information retrieval, and intelligent automation.
 
-- 🔭 **Currently exploring:** Production-grade machine learning pipelines, LLMOps, and scaling neural architectures.
-- 🌱 **Continually growing in:** Deep Learning, Natural Language Processing, and Computer Vision.
-- 💡 **Philosophy:** Building intelligent automation tools that have a tangible, real-world impact.
-- 📫 **Reach me at:** [tanvirahmed123000@gmail.com](mailto:tanvirahmed123000@gmail.com)
+Currently focused on designing scalable AI systems including multilingual Retrieval-Augmented Generation (RAG), fraud detection platforms, OCR-driven document intelligence, and machine learning pipelines that solve real-world business challenges.
 
 ---
 
-## 🛠️ Core Tech Stack
+# ⚡ Quick Snapshot
 
-### 🧠 Artificial Intelligence & Machine Learning
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white" alt="OpenCV" />
-  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
-  <img src="https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white" alt="Keras" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" alt="NumPy" />
-</p>
+```yaml
 
-### 📱 Software & Web Development
-<p align="left">
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white" alt="Dart" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" alt="Flutter" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white" alt="SQL" />
-</p>
+Specializations:
+  - LLM Engineering
+  - Retrieval-Augmented Generation
+  - Natural Language Processing
+  - Computer Vision
+  - OCR Intelligence
+  - AI Product Development
 
-### 🔧 Tools & DevOps
-<p align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white" alt="Jupyter" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white" alt="Vercel" />
-</p>
+Research Interests:
+  - Bangla NLP
+  - Information Retrieval
+  - Transformer Models
+  - Deep Learning
+  - Deepfake Detection
+```
 
 ---
 
-## 🌟 Featured Projects
+# 🎯 Current Focus
 
-### 🎓 [EduBuddy](https://github.com/tanvir-talha058/EduBuddy)
-A voice-activated educational assistant powered by AI, designed to help students manage scheduling, study materials, and academic life through intelligent conversational interfaces.
-
-### 🍃 [AgroKart-BD](https://github.com/tanvir-talha058/AgroKart-BD)
-A cross-platform Flutter application built to support local agriculture. It incorporates modern mobile design patterns and assists farmers and customers in optimizing agricultural logistics.
-
-### 🎭 [AI-PPT-Enhancement-Engine](https://github.com/tanvir-talha058/AI-PPT-Enhancement-Engine)
-An intelligent automation framework that leverages machine learning models to dynamically analyze, restructure, and visually enhance presentation slides.
-
-### 🖱️ [HandGestureMouse](https://github.com/tanvir-talha058/HandGestureMouse)
-A computer vision human-computer interaction (HCI) tool that maps real-time hand gesture tracking via camera feed to system mouse inputs.
+```text
+🧠 Enterprise RAG Systems
+📄 OCR & Document Intelligence
+🤖 LLM Applications
+⚙️ AI Automation Systems
+📊 Machine Learning Pipelines
+🔍 Information Retrieval
+🚀 FinTech AI Solutions
+```
 
 ---
 
-## 📊 My GitHub Analytics
+# 🧠 AI Engineering Dashboard
+
+<details open>
+<summary><b>🤖 Artificial Intelligence & Machine Learning</b></summary>
+
+<br>
+
+* Machine Learning
+* Deep Learning
+* Neural Networks
+* Large Language Models (LLMs)
+* Retrieval-Augmented Generation (RAG)
+* Prompt Engineering
+* Information Retrieval
+* Natural Language Processing
+* Computer Vision
+* OCR Systems
+* Deepfake Detection
+* Image Classification
+
+</details>
+
+<details>
+<summary><b>💳 FinTech AI</b></summary>
+
+<br>
+
+* Fraud Detection
+* Risk Scoring
+* Customer Profiling
+* Transaction Monitoring
+* Behavioral Analytics
+* Financial Automation
+* Intelligent Decision Systems
+
+</details>
+
+<details>
+<summary><b>⚙️ Production AI & Engineering</b></summary>
+
+<br>
+
+* LangChain Applications
+* Vector Databases
+* Qdrant
+* ChromaDB
+* AI Pipelines
+* API Development
+* Hybrid Retrieval Systems
+* Model Deployment
+* Automation Solutions
+
+</details>
+
+<details>
+<summary><b>🔬 Research & Innovation</b></summary>
+
+<br>
+
+* Transformer Architectures
+* Bangla NLP
+* Low-Resource Language Processing
+* Deepfake Detection
+* Dataset Engineering
+* Information Retrieval
+* Text Classification
+
+</details>
+
+---
+
+# 🛠 Technology Ecosystem
+
+### Programming Languages
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,c,cpp,java,javascript,dart,php" />
+</p>
+
+### AI / Machine Learning
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
+</p>
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=tanvir-talha058&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Tanvir's GitHub Stats" width="400" />
-      </td>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanvir-talha058&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="380" />
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=tanvir-talha058&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" width="790" />
-      </td>
-    </tr>
-  </table>
+
+PyTorch • TensorFlow • Scikit-Learn • Keras • OpenCV • MediaPipe
+
+LangChain • Qdrant • ChromaDB
+
+NumPy • Pandas • Matplotlib • Seaborn
+
 </div>
 
-<br />
+### Databases & Infrastructure
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=postgresql,docker,git,github,firebase" />
+</p>
+
+### Web & Mobile Development
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=flutter,html,css,javascript,bootstrap" />
+</p>
+
+### Development Tools
 
 <div align="center">
-  <em>Thank you for visiting my profile! Let's connect and build something impactful.</em> 😊
+
+VS Code • GitHub Actions • Figma • Kaggle
+
+Google Colab • Selenium • Zapier • Make
+
+</div>
+
+---
+
+# 📈 Professional Impact
+
+```text
+✅ Production-Grade Multilingual RAG Systems
+
+✅ Real-Time Fraud Detection Solutions
+
+✅ OCR-Based Document Intelligence Pipelines
+
+✅ 20,090+ Bangla NLP Dataset Samples
+
+✅ 86% Bangla Dialect Classification Accuracy
+
+✅ 20,000+ Computer Vision Dataset Images
+
+✅ 97%+ Plant Disease Classification Accuracy
+
+✅ Crime Analytics Platform Covering 64 Districts
+
+✅ AI-Powered Automation Solutions
+```
+
+---
+
+# 🔬 Research Journey
+
+```text
+2023 ─ Plant Disease Recognition & Classification
+
+2024 ─ Bangla Regional Dialect Classification
+
+2024 ─ Domain-Specific Text Categorization
+
+2025 ─ Deepfake Detection Research
+
+2026 ─ Enterprise RAG Systems
+
+2026 ─ FinTech AI Solutions
+```
+
+---
+
+# 📊 AI Engineering Focus
+
+```text
+AI Engineering         ████████████████ 95%
+
+LLM Applications       ████████████████ 95%
+
+RAG Systems            ████████████████ 95%
+
+Natural Language AI    ███████████████  90%
+
+Computer Vision        █████████████    85%
+
+FinTech AI             █████████████    85%
+
+MLOps                  ██████████       75%
+
+Cloud Infrastructure   ████████         65%
+```
+
+---
+
+# 🏆 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=tanvir-talha058&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanvir-talha058&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=tanvir-talha058&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 📊 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=tanvir-talha058&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏅 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=tanvir-talha058&theme=tokyonight&no-frame=true&row=1&column=7"/>
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+---
+
+# 🎖 Achievements
+
+🏆 First Position — District Science Fair
+
+🥉 Third Position — Division Science Fair
+
+🏅 Top 10 — JUST Rotaract Science Fair
+
+💼 AI/ML Engineer — Upay (UCB FinTech)
+
+📚 NLP Researcher
+
+🚀 Open Source Enthusiast
+
+---
+
+# 💡 Engineering Philosophy
+
+> Great AI systems are not defined by model accuracy alone.
+>
+> They are defined by their ability to solve meaningful real-world problems, scale reliably, and create measurable impact.
+
+---
+
+<div align="center">
+
+### Thanks for visiting my profile 🚀
+
+Building intelligent systems, exploring new ideas, and turning innovation into impact.
+
 </div>
