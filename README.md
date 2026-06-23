@@ -4,7 +4,7 @@
 
 <br>
 
-# 👋 Hi, I'm Tanvir Ahmed
+# Hi, I'm Tanvir Ahmed
 
 ### AI/ML Engineer @ upay (UCB FinTech)
 
